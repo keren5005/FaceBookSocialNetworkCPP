@@ -1,4 +1,4 @@
-git# Face-book: A Simple Social Network Simulation (C++)
+# Face-book: A Simple Social Network Simulation (C++)
 
 **Face-book** is a basic social network simulation written in C++. This project aims to demonstrate object-oriented programming principles and concepts like classes, inheritance, polymorphism, and file handling. It simulates a simplified social network system where members can connect with each other, create statuses, and interact with fan pages.
 
